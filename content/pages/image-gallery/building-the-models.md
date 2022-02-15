@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 title: Building the Models
 uid: d579ce29-1e9b-3bea-8df6-e1ac45a11554
@@ -8,7 +11,7 @@ uid: d579ce29-1e9b-3bea-8df6-e1ac45a11554
 
 Building the Models
 -------------------
-{{< image-gallery id="d579ce29-1e9b-3bea-8df6-e1ac45a11554_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/" >}}
+{{< image-gallery id="d579ce29-1e9b-3bea-8df6-e1ac45a11554_nanogallery2" baseUrl="/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/" >}}
 {{< image-gallery-item href="f2b8af5023b9375854ee78ff2df06ad4_2993018.jpg" data-ngdesc="A student cuts a design profile from a wood block." text="A student cuts a design profile from a wood block." >}}
 {{< image-gallery-item href="01a602fdd99925bc098ae1e3c5012709_2993019.jpg" data-ngdesc="A student plots a curve on his hull model." text="A student plots a curve on his hull model." >}}
 {{< image-gallery-item href="ec4f58f24f1af6ee545c7ce7342953a5_2993020.jpg" data-ngdesc="Another student lays out a shear curve on his hull model." text="Another student lays out a shear curve on his hull model." >}}
