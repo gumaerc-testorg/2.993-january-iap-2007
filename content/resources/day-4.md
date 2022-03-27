@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Day 4: Finishing Up and Drawing Up Plans'
 uid: 67ba6bb3-48f3-3bc4-bcde-a5f3f8775b1c
 video_files:

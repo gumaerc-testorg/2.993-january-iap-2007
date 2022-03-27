@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 383a12d9-7753-a380-38ac-53b8b5ba4576
 resourcetype: Image
 title: chp_boats.jpg
 uid: 3621304c-f2cf-15fb-1413-20a1463ba479

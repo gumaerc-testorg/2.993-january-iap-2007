@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Day 1: MIT Museum Nautical Collections and an Introductory Demonstration'
 uid: deec74ee-36fa-f2ad-e452-36b504278b17
 video_files:
