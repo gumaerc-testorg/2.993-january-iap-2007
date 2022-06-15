@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images related to the course, including:
+  planning and demonstration, building the models, drawing up plans for the completed
+  models, exploring the MIT Museum''s stored nautical collections, and final products.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
