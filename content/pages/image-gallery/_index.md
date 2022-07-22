@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images related to the course, including:
+  planning and demonstration, building the models, drawing up plans for the completed
+  models, exploring the MIT Museum''s stored nautical collections, and final products.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 ---
 
 Planning and Demonstration
 --------------------------
-{{< image-gallery id="1908160a-10b3-4495-98f8-3ea7592a646f_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/" >}}
+{{< image-gallery id="1908160a-10b3-4495-98f8-3ea7592a646f_nanogallery2" baseUrl="/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/" >}}
 {{< image-gallery-item href="6af83a9865f3a1003fe484a6d3a668d0_2993003.jpg" data-ngdesc="Students review historic designs in preparation for laying out a preliminary design on their own wooden model." text="Students review historic designs in preparation for laying out a preliminary design on their own wooden model." >}}
 {{< image-gallery-item href="41d38a162e853c248591e153def5db10_2993007.jpg" data-ngdesc="Instructor Tony Dias demonstrates layout of hull shape on a wood block prior to the first cut." text="Instructor Tony Dias demonstrates layout of hull shape on a wood block prior to the first cut." >}}
 {{< image-gallery-item href="2a9c28ea4a34d440a827aeb1de2cf754_2993009.jpg" data-ngdesc="Instructor Reuben Smith shows the class a model profile sawn from a wood block." text="Instructor Reuben Smith shows the class a model profile sawn from a wood block." >}}
