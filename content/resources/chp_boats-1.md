@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/3621304cf2cf15fb141320a1463ba479_chp_boats.jpg
+file_size: 35916
 file_type: image/jpeg
 image_metadata:
   caption: ''
