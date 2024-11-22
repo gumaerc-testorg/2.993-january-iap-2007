@@ -5,6 +5,7 @@ description: 'This section contains a gallery of images related to the course, i
   models, exploring the MIT Museum''s stored nautical collections, and final products.'
 learning_resource_types: []
 ocw_type: CourseSection
+show_section_pages: true
 title: Image Gallery
 uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 ---
