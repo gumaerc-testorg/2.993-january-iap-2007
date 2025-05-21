@@ -2,7 +2,7 @@
 content_type: resource
 description: Wooden half-hull model boats created by students in 2.993. Photograph
   by Kurt Hasselbalch.
-file: /ol-ocw-studio-app/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/63e34ffe238adafb89220d4d317871b6_chp_boats.jpg
+file: /courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/63e34ffe238adafb89220d4d317871b6_chp_boats.jpg
 file_size: 35916
 file_type: image/jpeg
 image_metadata:
